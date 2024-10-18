@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NSI-Coder
+- 👀 I’m interested in Python Coding
+- 🌱 I’m currently learning Python
+- 🔥 I’m looking to collaborate on the B-Chat Project
+- 📫 You can reach me through this GitHub Account
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't know
